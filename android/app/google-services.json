@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "114129115339",
+    "project_id": "flash-chat-4f660",
+    "storage_bucket": "flash-chat-4f660.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114129115339:android:5dcbf8adf00eaf3126634e",
+        "android_client_info": {
+          "package_name": "net.rolladay.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114129115339-b3rqpt1nmf0ji6sgvv0ero2d4gdpij62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbqA7R3Taq2O16YrwrHptBPrJjg2a3ass"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114129115339-b3rqpt1nmf0ji6sgvv0ero2d4gdpij62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
